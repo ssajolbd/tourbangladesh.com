@@ -8,7 +8,7 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.2)),
-    url(../image/home.jpg);
+    url(./image/home.jpg);
   background-position: center;
   background-size: cover;
   padding-left: 8%;
@@ -141,19 +141,19 @@ button {
 }
 
 .card1 {
-  background-image: url(../image/hatirjhil.jpg);
+  background-image: url(./image/hatirjhil.jpg);
 }
 
 .card2 {
-  background-image: url(../image/bd_fisherman.jpg);
+  background-image: url(./image/bd_fisherman.jpg);
 }
 
 .card3 {
-  background-image: url(../image/bd_farmer.jpg);
+  background-image: url(./image/bd_farmer.jpg);
 }
 
 .card4 {
-  background-image: url(../image/sajek.jpg);
+  background-image: url(./image/sajek.jpg);
 }
 
 .card:hover {
